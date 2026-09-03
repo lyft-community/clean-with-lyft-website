@@ -13,3 +13,6 @@ desktop.ini
 
 # Vercel
 .vercel
+
+# Local-only deployment notes (never push - contains internal setup info)
+DEPLOYMENT.md
