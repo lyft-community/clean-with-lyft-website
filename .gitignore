@@ -16,3 +16,7 @@ desktop.ini
 
 # Local-only deployment notes (never push - contains internal setup info)
 DEPLOYMENT.md
+
+# Font files dropped in for image generation (not self-hosted yet)
+*.ttf
+*.otf
